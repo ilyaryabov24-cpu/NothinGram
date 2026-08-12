@@ -1,1 +1,1 @@
-{"users":{"test":{"about":"Пользователь NothinGram","color":4294967295,"createdAt":1786535640226,"nick":"test","password":"1234"}}}
+{"users":{"test":{"about":"Пользователь NothinGram","color":4294967295,"createdAt":1786535640226,"nick":"test","password":"1234"},"test2":{"about":"Пользователь NothinGram","color":4294967295,"createdAt":1786536052380,"nick":"test2","password":"1234"}}}
